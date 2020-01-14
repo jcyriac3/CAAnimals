@@ -1,0 +1,19 @@
+{
+  "name": "CAAnimals",
+  "version": "1.0.0",
+  "description": "Programming Assignment",
+  "main": "assignment1.js",
+  "scripts": {
+  	"test": "echo \"Error: mo test specified\" && exit 1"
+  },
+  "keywords": [
+  	"Node"
+  	"NPM"
+  ],
+  "author": "Jonathan Cyriac",
+  "License": "ISC",
+  "dependencies": {
+  	"express": "~4.15.5",
+  	"mongodb": "~2.0.33"
+  }
+}
